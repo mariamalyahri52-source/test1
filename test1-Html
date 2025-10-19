@@ -50,8 +50,6 @@
   </form>
 </section>  
 
-  <script src="script.js"></script>
-
 </body>
 
 <footer> 
@@ -62,4 +60,6 @@
 </ul>
 </nav>
    </footer>
+
+  <script src="script.js"></script>
 </html>
