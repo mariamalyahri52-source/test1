@@ -3,6 +3,6 @@ document.getElementById("contactform").onsubmit = function () {
   return false; 
 };
 
-document.getElementsByTagName("tr")[1].onclick = function () {
+document.script.js("tr")[1].onclick = function () {
   alert("Candles Sold Out");
 };
